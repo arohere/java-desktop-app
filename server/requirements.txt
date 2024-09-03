@@ -1,0 +1,6 @@
+Flask
+langchain_milvus
+langchain_community
+pdfplumber
+langchain_text_splitters
+flask_cors
